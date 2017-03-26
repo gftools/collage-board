@@ -1,0 +1,24 @@
+{
+  "name": "collage-board",
+  "homepage": "https://github.com/gftools/collage-board",
+  "authors": [
+    "gftools <gftools@users.noreply.github.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "Rin": "v3.3.7-1"
+  },
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
